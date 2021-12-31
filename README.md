@@ -8,3 +8,4 @@
 StrongBlock9/StrongBlock9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+StrongBlock is the sole blockchain-skeptic convention to remunerate hubs for supporting the framework of their blockchain. At the hour of composing, StrongBlock is remunerating north of 1700 Ethereum 1.0 hubs, addressing over 15% of all Ethereum dynamic hubs. Visit Us:-https://strongblock.co/
